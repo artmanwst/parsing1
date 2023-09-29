@@ -1,0 +1,7 @@
+attrs==23.1.0
+beautifulsoup4==4.12.2
+fake-useragent==1.2.1
+lxml==4.9.3
+requests==2.31.0
+selenium==4.13.0
+
