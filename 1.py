@@ -92,7 +92,6 @@ with open('top1000.csv', 'a', newline='', encoding='utf-8') as csv_file:
                 watch_button_text = True
             else:
                 watch_button_text=False
-            print(watch_button)
             print("Название фильма:", movie_title)
             print("Год создания:", year)
             print("Оценка:", rating)
